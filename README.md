@@ -1,5 +1,5 @@
 # Belly-button-Challenge-new-
-pages link - 
+pages link - https://32012178.github.io/Belly-button-Challenge-new-/
 
 I had many issues in my original respository.
 It wouldn't allow me to commit any of the commands listed below and I began to get increasingly frustrated so I created a new repository. I do apologise for the lack of consistency and hope the pages link works. 
